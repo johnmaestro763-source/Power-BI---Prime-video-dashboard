@@ -33,6 +33,12 @@ It analyzes TV shows and movies based on ratings, genres, and release trends —
 
 ---
 
+## 📊 Dashboard
+
+
+<img width="1300" height="714" alt="image" src="https://github.com/user-attachments/assets/3d98b7d2-e1c2-4e8e-9adf-16f5a5c80c2e" />
+
+
 ## 🧾 File Structure
 
 
